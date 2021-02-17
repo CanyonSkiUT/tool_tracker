@@ -9,8 +9,6 @@ Associations
 - One-to-many
   between users and articles
 
-REST for users
-
 Authentication
 - Login using secure password
 
